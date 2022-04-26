@@ -1,8 +1,8 @@
-## About
+# About Me
 
 I am a Scientist on the Ancestry R&D team at [23andMe](https://www.23andme.com/). I am broadly interested in using ancient DNA to learn about the human past. 
 
-### Education
+## Education
 **PhD in Organismic and Evolutionary Biology, Secondary field in Archaeology**<br/>
 Harvard University, Cambridge, MA (May 2020)<br/>
 Co-supervised by [David Reich](https://reich.hms.harvard.edu/) and [John Wakeley](https://wakeleylab.oeb.harvard.edu/)
@@ -15,5 +15,5 @@ Supervised by [Toomas Kivisild](https://gbiomed.kuleuven.be/english/research/500
 Vassar College, Poughkeepsie, NY (May 2012)<br/>
 Supervised by [Jodi Schwarz](https://pages.vassar.edu/joschwarz/)
 
-### Publications
+## Publications
 Check out my published work on [Google Scholar](https://scholar.google.com/citations?hl=en&user=uqljZg4AAAAJ). 
