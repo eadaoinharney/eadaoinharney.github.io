@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## About
 
-You can use the [editor on GitHub](https://github.com/eadaoinharney/eadaoinharney.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am a Scientist on the Ancestry R&D team at [23andMe](https://www.23andme.com/). I am broadly interested in using ancient DNA to learn about the human past. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Education
+**PhD in Organismic and Evolutionary Biology, Secondary field in Archaeology**<br/>
+Harvard University, Cambridge, MA (May 2020)<br/>
+Co-supervised by [David Reich](https://reich.hms.harvard.edu/) and [John Wakeley](https://wakeleylab.oeb.harvard.edu/)
 
-### Markdown
+**Master of Philosophy in Human Evolutionary Studies**<br/>
+University of Cambridge, Cambridge, UK (November 2013)<br/>
+Supervised by [Toomas Kivisild](https://gbiomed.kuleuven.be/english/research/50000622/laboratories/Laboratory%20for%20Human%20Evolutionary%20Genetics)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Bachelor of Arts in Biochemistry, Anthropology minor**<br/>
+Vassar College, Poughkeepsie, NY (May 2012)<br/>
+Supervised by [Jodi Schwarz](https://pages.vassar.edu/joschwarz/)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eadaoinharney/eadaoinharney.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Publications
+Check out my published work on [Google Scholar](https://scholar.google.com/citations?hl=en&user=uqljZg4AAAAJ). 
