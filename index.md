@@ -1,6 +1,6 @@
 # About Me
 
-I am a Scientist on the Ancestry R&D team at [23andMe](https://www.23andme.com/). I am broadly interested in using ancient DNA to learn about the human past. 
+I am a population geneticist on the Ancestry R&D team at [23andMe](https://www.23andme.com/). I am broadly interested in using ancient DNA to learn about the human past. 
 
 ## Education
 **PhD in Organismic and Evolutionary Biology, Secondary field in Archaeology**<br/>
