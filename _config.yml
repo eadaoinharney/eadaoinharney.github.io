@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 title: Éadaoin Harney
+logo: photo_round.png
 github:
-  is_project_page: false
   is_user_page: false
